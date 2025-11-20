@@ -24,7 +24,7 @@ Laravel 12 API with OAuth, Laravel Passport and Queue jobs
     ```
     php artisan key:generate
     php artisan migrate
-    php artisan passport:install
+    php artisan passport:client --personal
 7. Start the server and queue worker (in separate terminals):
     ```
     # Terminal 1: Serve the API
