@@ -12,7 +12,9 @@ Laravel 12 API with OAuth, Laravel Passport and Queue jobs
 ### Installation
 1. Clone the repository.
 2. Install dependencies: composer install
-3. Copy environment file: cp .env.example .env
+3. Copy environment file: 
+    ```
+    cp .env.example .env
 4. Configure your database in .env.
 5. Set the Mailer to Log and Queue to Database in .env
     ```
