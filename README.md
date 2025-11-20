@@ -1,11 +1,11 @@
 # Email Gateway API
 
-Laravel API with OAuth, Laravel Passport and Queue jobs
+Laravel 12 API with OAuth, Laravel Passport and Queue jobs
 
 ## Setup
 
 ### Prerequisites
-* PHP 8.1+
+* PHP 8.2+
 * Composer
 * MySQL 
 
